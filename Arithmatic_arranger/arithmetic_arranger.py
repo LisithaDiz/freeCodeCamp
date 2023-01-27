@@ -1,6 +1,4 @@
 import re
-
-
 def arithmetic_arranger(problems, bool=False):
     num_1 = list()
     num_2 = list()
@@ -82,7 +80,5 @@ def arithmetic_arranger(problems, bool=False):
 
     else:
         arranged_problems = line_1 + '\n' + line_2 + '\n' + line_3
-
-    return arranged_problems
-
+        
     return arranged_problems
