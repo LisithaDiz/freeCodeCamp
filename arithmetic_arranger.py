@@ -85,4 +85,3 @@ def arithmetic_arranger(problems, bool=False):
 
     return arranged_problems
 
-    return arranged_problems
